@@ -1,0 +1,4 @@
+scecf
+=====
+
+Gerencimanento comunicação socket
